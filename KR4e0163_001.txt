@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 洹詞
-#+DATE: 2020-03-31 11:37:46.964160
+#+DATE: 2020-03-31 11:37:47.182107
 #+PROPERTY: ID KR4e0163
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4e0163_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -49,7 +49,7 @@
 上激清名於一朝發義氣於一二事以為得也誠者立¶
 <pb:KR4e0163_WYG_001-3a>¶
 本也謀者定事也㡬者袪難也拗之者至殆也隨之者¶
-至蠱也非老成&KR0201;宻如先生將無僨事矣乎於乎此先¶
+至蠱也非老成邃宻如先生將無僨事矣乎於乎此先¶
 生當往也銑欲私留者鄙矣¶
 ¶
 　　翰林庶吉士題名記(擬作)¶
